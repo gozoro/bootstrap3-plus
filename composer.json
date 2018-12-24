@@ -1,0 +1,16 @@
+{
+	"name": "gozoro/bootstrap3-plus",
+	"description": "Improved responsive design",
+	"keywords":[
+		"bootstrap"
+	],
+	"homepage": "https://github.com/gozoro/bootstrap3-plus",
+	"type": "component",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Gozoro",
+			"email": "gozoro@yandex.ru"
+		}
+	]
+}
